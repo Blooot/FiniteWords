@@ -8,10 +8,11 @@ const WordList = ({ shuffleKanji }) => {
                 shuffleKanji.map((card, i) => {
                     return <
                         Word key={i}
-                        New={shuffleKanji[i].New}
-                        Radical={shuffleKanji[i].Radical}
-                        Readings={shuffleKanji[i].Readings}
-                        English={shuffleKanji[i].English}
+                        kanji={shuffleKanji[i].kanji}
+                        kana={shuffleKanji[i].kana}
+                        primary={shuffleKanji[i].primary}
+                        secondary={shuffleKanji[i].secondary}
+                        pos={shuffleKanji[i].pos}
                     />
                 })
             }

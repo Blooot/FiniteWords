@@ -2,7 +2,7 @@ body {
     background: linear-gradient(to bottom, #FF8F63, #FFA885, #FFE5DA, #7FB9E6, 
     #A6F6D4, #79E9B9, #52D49C, #FFDBAC, #FF8F63, #fec051, #FEE140 );
 	background-size: 100%;
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
 }
 
 body:before{
@@ -12,5 +12,5 @@ body:before{
 	bottom: 0;
 	width: 100%;
 	z-index: -1;
-	background: linear-gradient(to right bottom, rgba(255,255,255,0.2), #589BCE 75%);
+    background: linear-gradient(to right bottom, rgba(255,255,255,0.2), #589BCE 75%);
 }
