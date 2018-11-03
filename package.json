@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "loaders.css": "^0.1.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-infinite-scroll-component": "^4.2.0",
+    "react-loader-spinner": "^2.0.6",
+    "react-loaders": "^3.0.1",
     "react-scripts": "2.0.4",
     "tachyons": "^4.11.1"
   },
