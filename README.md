@@ -1,1 +1,3 @@
-Soon to be a fun, infinite-scrolling word-art project!
+A simple, infinite scrolling, kanji study app/art project. 
+
+Temp demo: https://finitewords.herokuapp.com/
